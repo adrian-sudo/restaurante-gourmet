@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-kaushan-script: "Kaushan Script";
+  --font-inter: Inter;
+  --font-spartan: Spartan;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-yellow: #f0f50f;
+  --color-white: #fff;
+  --color-gainsboro: #d9d9d9;
+  --color-darkslategray: #454545;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+  --padding-9xl: 28px;
+  --padding-21xl: 40px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}

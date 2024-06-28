@@ -1,0 +1,233 @@
+.ft-5-icon {
+  position: absolute;
+  top: 551px;
+  left: calc(50% - 74.5px);
+  border-radius: 51px;
+  width: 149px;
+  height: 144px;
+  object-fit: cover;
+}
+.ft-2-icon,
+.ft-3-icon {
+  position: absolute;
+  top: 347px;
+  left: 689px;
+  width: 802.2px;
+  height: 575px;
+  object-fit: contain;
+}
+.ft-2-icon {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 10px;
+  transform: scale(1.087);
+}
+.wrapper-ft-2 {
+  position: absolute;
+  top: -29px;
+  left: 393px;
+  width: 451px;
+  height: 223px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ft-1-icon,
+.ft-4-icon,
+.ft-6-icon,
+.ft-7-icon {
+  position: absolute;
+  top: -117px;
+  left: -110px;
+  width: 397.6px;
+  height: 426.8px;
+  object-fit: contain;
+}
+.ft-4-icon,
+.ft-6-icon,
+.ft-7-icon {
+  top: -14px;
+  left: 902px;
+  width: 341.1px;
+  height: 343.5px;
+}
+.ft-6-icon,
+.ft-7-icon {
+  top: 530px;
+  left: -120px;
+  width: 512.8px;
+  height: 467px;
+}
+.ft-7-icon {
+  top: 388px;
+  left: 16px;
+  width: 190.6px;
+  height: 162.7px;
+}
+.btnt-1-icon {
+  position: absolute;
+  top: 47px;
+  left: 58px;
+  width: 47px;
+  height: 43px;
+}
+.home {
+  position: relative;
+  font-weight: 600;
+}
+.component-1 {
+  position: absolute;
+  top: 52px;
+  left: 303px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-9xl);
+  color: var(--color-yellow);
+  font-family: var(--font-poppins);
+}
+.home1 {
+  position: relative;
+  font-weight: 600;
+}
+.component-2 {
+  position: absolute;
+  top: 54px;
+  left: 410px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-9xl);
+}
+.home2 {
+  position: relative;
+  font-weight: 600;
+}
+.component-3 {
+  position: absolute;
+  top: 53px;
+  left: 553px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-9xl);
+}
+.home3 {
+  position: relative;
+  font-weight: 600;
+}
+.component-5 {
+  position: absolute;
+  top: 54px;
+  left: 831px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-9xl);
+}
+.home4 {
+  position: relative;
+  font-weight: 600;
+}
+.component-4 {
+  position: absolute;
+  top: 55px;
+  left: 661px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) var(--padding-9xl);
+}
+.retrato-child {
+  position: absolute;
+  top: 58.5px;
+  left: 934.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 16px;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 1.65%;
+  width: 0.74%;
+  top: 8.38%;
+  right: 11.8%;
+  bottom: 89.97%;
+  left: 87.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  width: 1.2%;
+  right: 9.03%;
+  left: 89.77%;
+}
+.welcome {
+  position: absolute;
+  top: 264px;
+  left: calc(50% - 78.5px);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-kaushan-script);
+  color: var(--color-yellow);
+}
+.gourmet-rosmo-ramsay,
+.restaurante {
+  margin: 0;
+}
+.restaurante-gourmet-rosmo-container {
+  position: absolute;
+  top: 329px;
+  left: calc(50% - 207.5px);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 414px;
+}
+.book-a-table {
+  position: relative;
+  text-transform: capitalize;
+}
+.book-a-table-wrapper {
+  position: absolute;
+  top: 438px;
+  left: 473px;
+  border-radius: 10px;
+  background-color: var(--color-yellow);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  color: #000;
+  font-family: var(--font-poppins);
+}
+.retrato {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(238.45deg, #1a191f, #201f25 99.96%);
+  height: 728px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gainsboro);
+  font-family: var(--font-inter);
+}
